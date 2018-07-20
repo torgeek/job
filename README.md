@@ -1,7 +1,3 @@
-# Работа в ivelum
+# Работа в vesta
 
-<img src="https://raw.githubusercontent.com/ivelum/job/master/vault-boy.png" align="right">
-
-[Вики о работе в ivelum](http://github.com/ivelum/job/wiki/)
-
-Контакт: [job@ivelum.com](mailto:job@ivelum.com)
+Контакт: [info@vesta27.ru](mailto:info@vesta27.ru)
